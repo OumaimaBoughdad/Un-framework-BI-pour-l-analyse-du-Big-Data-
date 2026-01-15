@@ -1,0 +1,1871 @@
+year,keyword,frequency
+2026,deep learning,1921
+2025,artificial intelligence,1029
+2026,artificial intelligence,987
+2025,blockchain,942
+2026,big data,941
+2024,blockchain,915
+2025,humans,851
+2023,blockchain,807
+2022,blockchain,737
+2021,blockchain,717
+2020,blockchain,692
+2025,algorithms,450
+2025,deep learning,317
+2025,machine learning,311
+2025,male,256
+2025,"neural networks, computer",242
+2019,blockchain,241
+2025,female,237
+2025,"signal processing, computer-assisted",185
+2026,machine learning,153
+2025,"image processing, computer-assisted",146
+2025,electroencephalography,96
+2025,adult,96
+2025,magnetic resonance imaging,66
+2025,middle aged,65
+2025,data mining,64
+2025,aged,58
+2025,brain,56
+2026,humans,54
+2025,electrocardiography,51
+2023,artificial intelligence,51
+2025,natural language processing,39
+2025,electronic health records,38
+2025,wearable electronic devices,36
+2025,"tomography, x-ray computed",35
+2025,robotics,35
+2024,data mining,34
+2025,animals,32
+2025,"imaging, three-dimensional",32
+2025,brain-computer interfaces,30
+2025,electromyography,30
+2025,supervised machine learning,29
+2025,large language models,27
+2025,support vector machine,25
+2025,neoplasms,25
+2024,humans,24
+2026,blockchain,23
+2025,alzheimer disease,23
+2020,big data,23
+2025,photoplethysmography,23
+2025,reproducibility of results,23
+2025,computational biology,22
+2025,ultrasonography,20
+2025,"image interpretation, computer-assisted",19
+2025,computer simulation,19
+2025,polysomnography,19
+2026,female,19
+2025,language,18
+2025,gait,18
+2025,signal-to-noise ratio,18
+2025,child,18
+2017,deep learning,17
+2025,"monitoring, physiologic",17
+2023,data mining,16
+2021,big data,16
+2026,male,16
+2025,biomechanical phenomena,16
+2025,risk factors,16
+2025,precision medicine,16
+2019,big data,15
+2025,atrial fibrillation,15
+2025,parkinson disease,15
+2025,epilepsy,15
+2025,sleep stages,15
+2022,artificial intelligence,15
+2018,deep learning,15
+2025,movement,15
+2025,software,14
+2026,computational biology,14
+2025,roc curve,14
+2025,automation,14
+2025,emotions,14
+2025,attention,14
+2025,risk assessment,14
+2025,lung neoplasms,14
+2025,seizures,14
+2025,"diagnosis, computer-assisted",14
+2019,deep learning,14
+2022,big data,13
+2025,biomarkers,13
+2025,heart rate,13
+2025,cognitive dysfunction,13
+2016,deep learning,13
+2021,deep learning,12
+2025,young adult,12
+2025,bayes theorem,12
+2026,"image processing, computer-assisted",12
+2025,breast neoplasms,12
+2025,"tomography, optical coherence",12
+2025,"infant, newborn",12
+2025,gait analysis,11
+2025,blood pressure,11
+2025,prostatic neoplasms,11
+2023,humans,11
+2025,equipment design,11
+2025,pregnancy,11
+2025,speech,11
+2025,blood pressure determination,10
+2025,prognosis,10
+2025,retrospective studies,10
+2025,"arrhythmias, cardiac",10
+2025,electric impedance,10
+2025,hand,10
+2025,cluster analysis,10
+2025,gestures,10
+2025,wavelet analysis,9
+2025,treatment outcome,9
+2025,"pattern recognition, automated",9
+2025,diagnostic imaging,9
+2025,early diagnosis,9
+2025,accelerometry,9
+2025,stroke,9
+2025,sleep,9
+2025,tomography,9
+2018,big data,9
+2025,neuroimaging,9
+2018,blockchain,9
+2025,artifacts,9
+2025,eye movements,9
+2025,"decision support systems, clinical",9
+2019,artificial intelligence,8
+2025,severity of illness index,8
+2025,covid-19,8
+2020,deep learning,8
+2025,video recording,8
+2025,"databases, factual",8
+2025,federated learning,8
+2025,motion,8
+2026,middle aged,8
+2025,imagination,8
+2025,exoskeleton device,8
+2025,spatio-temporal analysis,8
+2017,big data,8
+2025,mobile applications,8
+2025,heart sounds,8
+2025,convolutional neural networks,8
+2025,"phantoms, imaging",8
+2025,"spectroscopy, near-infrared",8
+2015,deep learning,8
+2019,big data analytics,8
+2025,lung,8
+2025,early detection of cancer,8
+2025,radar,7
+2025,gene expression profiling,7
+2025,sleep apnea syndromes,7
+2026,data mining,7
+2025,coronary artery disease,7
+2025,big data analytics,7
+2025,phenotype,7
+2025,"biomarkers, tumor",7
+2025,"models, statistical",7
+2025,respiratory sounds,7
+2025,forecasting,7
+2022,big data analytics,7
+2025,sars-cov-2,7
+2025,smartphone,7
+2017,blockchain,7
+2025,depression,7
+2025,drug discovery,7
+2025,endoscopy,7
+2025,programming languages,7
+2025,time factors,7
+2026,retrospective studies,7
+2025,eye-tracking technology,7
+2025,brain neoplasms,7
+2025,walking,6
+2025,coronary vessels,6
+2025,china,6
+2025,dementia,6
+2025,phonocardiography,6
+2025,drug-related side effects and adverse reactions,6
+2025,action potentials,6
+2025,acoustics,6
+2018,big data analytics,6
+2025,activities of daily living,6
+2017,big data analytics,6
+2024,artificial intelligence,6
+2025,stroke rehabilitation,6
+2024,female,6
+2025,neurons,6
+2025,blood glucose,6
+2025,pancreatic neoplasms,5
+2025,fuzzy logic,5
+2026,adult,5
+2025,auscultation,5
+2025,semantics,5
+2025,antineoplastic agents,5
+2024,male,5
+2015,big data,5
+2025,monte carlo method,5
+2016,big data analytics,5
+2024,algorithms,5
+2026,software,5
+2025,wrist,5
+2025,radiography,5
+2025,skin neoplasms,5
+2025,"aged, 80 and over",5
+2025,upper extremity,5
+2025,cardiovascular diseases,5
+2025,electrodes,5
+2025,infant,5
+2025,calibration,5
+2025,visual perception,5
+2026,aged,5
+2025,multiple-instance learning algorithms,5
+2025,visual cortex,5
+2025,"gene expression regulation, neoplastic",5
+2025,uncertainty,5
+2025,robotic surgical procedures,5
+2025,"drugs, chinese herbal",5
+2025,adverse drug reaction reporting systems,5
+2023,deep learning,5
+2025,genomics,5
+2026,algorithms,5
+2024,natural language processing,5
+2026,gene expression profiling,5
+2025,delivery of health care,5
+2017,humans,5
+2025,rats,5
+2025,gene regulatory networks,5
+2025,proteins,5
+2025,"pulmonary disease, chronic obstructive",5
+2025,mice,5
+2025,autoencoder,5
+2024,computational biology,5
+2025,"models, neurological",5
+2020,big data analytics,5
+2016,big data,5
+2025,"reinforcement, psychology",4
+2025,retinal diseases,4
+2025,synthetic biology,4
+2025,blood glucose self-monitoring,4
+2024,machine learning,4
+2025,coronary angiography,4
+2025,autism spectrum disorder,4
+2025,capsule endoscopy,4
+2025,prostate,4
+2025,biometry,4
+2025,nerve net,4
+2025,computed tomography angiography,4
+2025,radiomics,4
+2025,generative adversarial networks,4
+2025,united states,4
+2025,mental disorders,4
+2025,unsupervised machine learning,4
+2025,pulse wave analysis,4
+2025,colorectal neoplasms,4
+2025,"models, cardiovascular",4
+2021,artificial intelligence,4
+2025,"diabetes mellitus, type 2",4
+2025,surveys and questionnaires,4
+2025,exercise,4
+2025,self-help devices,4
+2025,protein interaction maps,4
+2025,echocardiography,4
+2025,decision trees,4
+2025,heart failure,4
+2025,artificial limbs,4
+2019,humans,4
+2025,bibliometrics,4
+2025,respiration,4
+2025,"hypoxia-ischemia, brain",4
+2025,blood flow velocity,4
+2025,adolescent,4
+2025,information storage and retrieval,4
+2025,"sleep apnea, obstructive",4
+2025,myocardial infarction,4
+2026,"models, molecular",4
+2024,animals,4
+2025,clinical trials as topic,4
+2026,biomarkers,4
+2025,head and neck neoplasms,4
+2025,glaucoma,4
+2014,big data,4
+2025,sepsis,4
+2024,big data analytics,4
+2025,sheep,4
+2018,humans,4
+2025,face,4
+2025,generative artificial intelligence,4
+2025,accidental falls,4
+2025,hemodynamics,4
+2025,social media,4
+2025,disease progression,4
+2025,prospective studies,4
+2026,"neural networks, computer",4
+2025,triage,4
+2025,liver neoplasms,4
+2016,blockchain,4
+2025,"cell line, tumor",4
+2025,germany,4
+2025,"child, preschool",3
+2025,ensemble learning,3
+2025,ear,3
+2025,nursing records,3
+2025,graph neural networks,3
+2025,telemedicine,3
+2025,intensive care units,3
+2025,internet,3
+2025,plants,3
+2025,posture,3
+2025,"plaque, atherosclerotic",3
+2024,"polymorphism, single nucleotide",3
+2025,"brain injuries, traumatic",3
+2025,cough,3
+2025,"renal insufficiency, chronic",3
+2025,sensitivity and specificity,3
+2025,gastroenterology,3
+2025,joints,3
+2025,"radiography, thoracic",3
+2026,protein interaction maps,3
+2019,female,3
+2025,liver,3
+2025,"databases, genetic",3
+2025,survival analysis,3
+2025,"radiographic image interpretation, computer-assisted",3
+2025,diabetes mellitus,3
+2025,consciousness disorders,3
+2025,republic of korea,3
+2025,contrast media,3
+2021,big data analytics,3
+2018,artificial intelligence,3
+2025,aging,3
+2025,aorta,3
+2025,visual prosthesis,3
+2025,"medicine, chinese traditional",3
+2025,brain mapping,3
+2025,cell nucleus,3
+2025,biomedical research,3
+2025,retina,3
+2025,cross-sectional studies,3
+2025,big data,3
+2025,transcriptome,3
+2025,chronic disease,3
+2020,humans,3
+2026,artifacts,3
+2025,oximetry,3
+2025,students,3
+2025,radio waves,3
+2025,magnetic resonance angiography,3
+2014,deep learning,3
+2025,japan,3
+2025,deep brain stimulation,3
+2025,lower extremity,3
+2025,telerehabilitation,3
+2025,magnetite nanoparticles,3
+2021,humans,3
+2025,"diabetes mellitus, type 1",3
+2025,"muscle, skeletal",3
+2025,public health,3
+2026,protein conformation,3
+2025,pilot projects,3
+2025,colonic neoplasms,3
+2025,data curation,3
+2025,carotid arteries,3
+2025,metabolomics,3
+2024,deep learning,3
+2025,anticoagulants,3
+2025,caregivers,3
+2025,internet of things,3
+2025,"carcinoma, pancreatic ductal",3
+2025,"radiotherapy planning, computer-assisted",3
+2025,single-cell analysis,3
+2017,artificial intelligence,3
+2025,immunohistochemistry,3
+2025,liver cirrhosis,3
+2025,"carcinoma, hepatocellular",3
+2025,stomach neoplasms,3
+2025,kidney neoplasms,3
+2025,cone-beam computed tomography,3
+2025,osteoarthritis,3
+2025,"osteoarthritis, knee",3
+2026,radiation dosage,3
+2025,blinking,3
+2025,breast,3
+2025,markov chains,3
+2025,biotechnology,3
+2024,electronic health records,3
+2015,big data analytics,3
+2022,humans,3
+2025,automobile driving,3
+2012,big data,3
+2025,melanoma,3
+2025,medical oncology,3
+2025,pain measurement,3
+2025,patient compliance,3
+2020,artificial intelligence,3
+2025,hypertension,3
+2026,"biomarkers, tumor",3
+2025,autistic disorder,3
+2025,mammography,3
+2025,"models, biological",3
+2025,tumor microenvironment,3
+2025,fingers,3
+2025,"surgery, computer-assisted",3
+2025,nutrition surveys,3
+2025,covid-19 drug treatment,2
+2025,dna methylation,2
+2025,aphasia,2
+2026,"databases, protein",2
+2025,social determinants of health,2
+2024,risk assessment,2
+2025,"fractures, bone",2
+2024,alzheimer disease,2
+2025,escherichia coli,2
+2025,peptides,2
+2025,eating,2
+2026,risk factors,2
+2025,thyroid nodule,2
+2025,biological products,2
+2025,arm,2
+2025,respiratory rate,2
+2025,phylogeny,2
+2025,fundus oculi,2
+2025,cross infection,2
+2025,wireless technology,2
+2026,molecularly imprinted polymers,2
+2026,mitochondria,2
+2025,neurodegenerative diseases,2
+2025,hemiplegia,2
+2025,diabetic retinopathy,2
+2025,transcranial direct current stimulation,2
+2025,remote sensing technology,2
+2025,ballistocardiography,2
+2025,otoscopy,2
+2025,colonoscopy,2
+2025,retinal vessels,2
+2025,symptom assessment,2
+2025,"radiography, panoramic",2
+2025,obesity,2
+2025,locomotion,2
+2025,gene editing,2
+2025,fetus,2
+2025,dental pulp cavity,2
+2025,attention deficit disorder with hyperactivity,2
+2024,covid-19,2
+2026,precision medicine,2
+2025,dogs,2
+2013,deep learning,2
+2026,computer simulation,2
+2025,pupil,2
+2016,data mining,2
+2025,consciousness,2
+2025,kidney,2
+2024,"databases, genetic",2
+2025,body mass index,2
+2026,"arthritis, rheumatoid",2
+2025,"carcinoma, non-small-cell lung",2
+2025,fatty liver,2
+2025,rest,2
+2025,diffusion magnetic resonance imaging,2
+2023,big data analytics,2
+2025,exercise therapy,2
+2025,diffusion tensor imaging,2
+2025,tremor,2
+2025,"emergency service, hospital",2
+2025,adipose tissue,2
+2025,normal distribution,2
+2025,"arthritis, rheumatoid",2
+2024,genome-wide association study,2
+2025,postural balance,2
+2025,suicidal ideation,2
+2025,triple negative breast neoplasms,2
+2025,anti-bacterial agents,2
+2026,vagus nerve stimulation,2
+2025,biofuels,2
+2025,research design,2
+2025,athletic performance,2
+2025,heart ventricles,2
+2026,magnetic resonance imaging,2
+2025,mendelian randomization analysis,2
+2025,"databases, protein",2
+2023,big data,2
+2025,anthropometry,2
+2025,wrist injuries,2
+2025,biosensing techniques,2
+2026,gene ontology,2
+2025,colonic polyps,2
+2025,network pharmacology,2
+2024,ecosystem,2
+2025,"protein processing, post-translational",2
+2025,micrornas,2
+2025,multigene family,2
+2023,research personnel,2
+2022,animals,2
+2025,anatomic landmarks,2
+2025,multiomics,2
+2025,heart murmurs,2
+2026,phenotype,2
+2025,feasibility studies,2
+2025,drug design,2
+2026,rna,2
+2025,torque,2
+2025,motor cortex,2
+2025,protein conformation,2
+2025,extracellular matrix,2
+2025,mutation,2
+2025,randomized controlled trials as topic,2
+2025,peripheral arterial disease,2
+2025,"product surveillance, postmarketing",2
+2025,task performance and analysis,2
+2024,transcriptome,2
+2025,workflow,2
+2025,ankle joint,2
+2025,evidence-based medicine,2
+2025,chest pain,2
+2023,animals,2
+2025,human activities,2
+2025,acute kidney injury,2
+2024,molecular docking simulation,2
+2025,regression analysis,2
+2025,carotid stenosis,2
+2025,entropy,2
+2024,software,2
+2025,ischemic stroke,2
+2026,ultrasonography,2
+2025,musculoskeletal system,2
+2025,genetic predisposition to disease,2
+2025,pain,2
+2025,heart,2
+2024,young adult,2
+2025,boosting machine learning algorithms,2
+2024,multifactorial inheritance,2
+2025,hip,2
+2025,critical care,2
+2024,sars-cov-2,2
+2025,longitudinal studies,2
+2025,schizophrenia,2
+2026,"radiotherapy planning, computer-assisted",2
+2026,neuroimaging,2
+2025,"carcinoma, renal cell",2
+2023,"medicine, chinese traditional",2
+2025,quality of life,2
+2015,blockchain,2
+2025,synthetic lethal mutations,2
+2025,proteomics,2
+2025,retinopathy of prematurity,2
+2025,protein interaction mapping,2
+2025,antiviral agents,2
+2025,pharmacogenetics,2
+2019,"databases, factual",2
+2025,cohort studies,2
+2025,skin,2
+2024,"crops, agricultural",2
+2025,neoplasm metastasis,2
+2024,adult,2
+2025,metabolic engineering,2
+2025,life style,2
+2025,foot,2
+2025,otitis media,2
+2026,radiotherapy dosage,2
+2025,quantum theory,2
+2025,diet,2
+2025,cerebellar ataxia,2
+2025,immunotherapy,2
+2025,genotype,2
+2025,galvanic skin response,2
+2018,biomedical research,2
+2026,"gene expression regulation, neoplastic",2
+2025,asthma,2
+2025,motor neurons,2
+2026,"tomography, x-ray computed",2
+2025,reading,2
+2024,risk factors,2
+2025,heart diseases,2
+2025,radiotherapy dosage,2
+2025,protein folding,2
+2025,arousal,2
+2026,electroencephalography,2
+2025,molecular sequence annotation,2
+2025,meals,2
+2025,catheter ablation,2
+2025,glioma,2
+2025,hospitalization,2
+2025,multimodal imaging,2
+2025,shoes,2
+2025,optic disk,2
+2022,deep learning,2
+2025,arterial pressure,2
+2026,molecular imprinting,2
+2017,electronic health records,2
+2025,magnetoencephalography,2
+2025,"models, molecular",2
+2016,humans,2
+2026,animals,2
+2025,cardiac output,2
+2025,vital signs,2
+2026,nucleic acid conformation,2
+2023,molecular docking simulation,2
+2026,brain,2
+2025,lung diseases,2
+2026,gene regulatory networks,2
+2017,genomics,2
+2026,echocardiography,2
+2026,microscopy,2
+2025,linguistics,2
+2025,neoplasm grading,2
+2025,biosynthetic pathways,2
+2025,"sequence analysis, rna",2
+2025,"gene expression regulation, plant",2
+2025,"depressive disorder, major",2
+2025,biomass,2
+2021,female,2
+2026,proteins,2
+2025,solitary pulmonary nodule,2
+2026,infant,2
+2025,environmental monitoring,2
+2025,rna,2
+2025,respiratory function tests,2
+2025,thorax,2
+2025,"electrocardiography, ambulatory",2
+2026,signal transduction,2
+2022,data science,2
+2025,multifactorial inheritance,2
+2025,"intensive care units, neonatal",2
+2025,swine,2
+2025,wheelchairs,2
+2017,data mining,2
+2026,atherosclerosis,2
+2025,fourier analysis,2
+2025,rem sleep behavior disorder,2
+2025,privacy,2
+2025,positron-emission tomography,2
+2019,middle aged,2
+2026,nomograms,2
+2025,wakefulness,2
+2025,"neoplasm recurrence, local",2
+2025,electrocorticography,2
+2025,patient safety,2
+2026,polysaccharides,2
+2025,bone and bones,2
+2025,communicable diseases,2
+2026,coronary disease,1
+2025,uveal neoplasms,1
+2025,age of onset,1
+2026,protein-tyrosine kinases,1
+2025,intervertebral disc,1
+2025,thermography,1
+2025,gastrointestinal diseases,1
+2025,cortical synchronization,1
+2025,proportional hazards models,1
+2025,respiratory tract diseases,1
+2025,"nystagmus, pathologic",1
+2025,glycated hemoglobin,1
+2024,china,1
+2025,amyotrophic lateral sclerosis,1
+2025,blood culture,1
+2025,sex factors,1
+2025,frailty,1
+2025,facial paralysis,1
+2017,proteins,1
+2024,taxus,1
+2024,internet,1
+2025,genetic background,1
+2023,"carcinoma, hepatocellular",1
+2025,mass spectrometry,1
+2025,saccharomyces cerevisiae,1
+2025,color,1
+2025,four-dimensional computed tomography,1
+2024,nanomedicine,1
+2025,"lateral ligament, ankle",1
+2025,microelectrodes,1
+2025,uruguay,1
+2025,consensus,1
+2025,cooperative behavior,1
+2025,dog diseases,1
+2025,"receptor, melanocortin, type 4",1
+2025,"data interpretation, statistical",1
+2026,pneumonia,1
+2025,crying,1
+2025,thyroid neoplasms,1
+2025,kaplan-meier estimate,1
+2025,europe,1
+2025,ergonomics,1
+2023,oceans and seas,1
+2025,"administration, oral",1
+2019,antineoplastic combined chemotherapy protocols,1
+2025,virtual reality,1
+2025,extracellular vesicles,1
+2024,australia,1
+2024,animal migration,1
+2025,acclimatization,1
+2025,systems biology,1
+2025,tacrolimus,1
+2025,ether-a-go-go potassium channels,1
+2025,cryoelectron microscopy,1
+2025,drug resistant epilepsy,1
+2022,colonic neoplasms,1
+2025,calcinosis,1
+2018,delivery of health care,1
+2025,cattle,1
+2025,black or african american,1
+2025,electric conductivity,1
+2025,flow cytometry,1
+2017,"models, statistical",1
+2026,generative adversarial networks,1
+2026,transcutaneous electric nerve stimulation,1
+2025,quadriplegia,1
+2018,data mining,1
+2023,liver neoplasms,1
+2025,infections,1
+2025,meta-analysis as topic,1
+2025,transcranial magnetic stimulation,1
+2025,"infusions, intra-arterial",1
+2022,natural language processing,1
+2023,names,1
+2024,"databases, factual",1
+2025,anopheles,1
+2023,china,1
+2024,ethnicity,1
+2026,cochlear implantation,1
+2026,wine,1
+2020,china,1
+2023,hepatic encephalopathy,1
+2017,"databases, genetic",1
+2017,telemedicine,1
+2018,india,1
+2025,spinal cord,1
+2024,prevalence,1
+2026,digestion,1
+2025,"statistics, nonparametric",1
+2026,electronic health records,1
+2026,sepsis,1
+2026,gastrointestinal stromal tumors,1
+2026,motion,1
+2025,feedback,1
+2025,temporomandibular joint disorders,1
+2024,england,1
+2025,blood volume,1
+2018,magnetic resonance imaging,1
+2025,"radiotherapy, intensity-modulated",1
+2025,heart atria,1
+2025,neoplasm staging,1
+2025,breath holding,1
+2024,artifacts,1
+2026,calgranulin a,1
+2024,lung neoplasms,1
+2024,mental disorders,1
+2025,"tuberculosis, pulmonary",1
+2025,microsatellite instability,1
+2017,neoplasms,1
+2025,computer graphics,1
+2025,"monitoring, intraoperative",1
+2025,morus,1
+2025,volatile organic compounds,1
+2025,cataract extraction,1
+2025,cattle diseases,1
+2025,recurrence,1
+2024,drug prescriptions,1
+2016,"models, theoretical",1
+2025,trust,1
+2024,health facilities,1
+2025,bursitis,1
+2026,"refraction, ocular",1
+2019,apoptosis,1
+2025,dust,1
+2025,shoulder joint,1
+2025,"tomography, emission-computed, single-photon",1
+2025,weightlessness,1
+2017,health information management,1
+2026,dietary proteins,1
+2026,republic of korea,1
+2025,caffeine,1
+2024,retrospective studies,1
+2025,health personnel,1
+2018,"rna, guide, crispr-cas systems",1
+2024,renal dialysis,1
+2024,animal husbandry,1
+1992,artificial intelligence,1
+2025,proteome,1
+2024,"genetics, population",1
+2018,high-throughput nucleotide sequencing,1
+2023,gene expression,1
+2025,"monitoring, ambulatory",1
+2025,quantitative structure-activity relationship,1
+2025,high-throughput nucleotide sequencing,1
+2025,racial groups,1
+2025,emotional regulation,1
+2016,"models, economic",1
+2025,bicycling,1
+2019,phylogeny,1
+2025,central pattern generators,1
+2025,nebulizers and vaporizers,1
+2023,water,1
+2023,vascular endothelial growth factor a,1
+2025,uterine contraction,1
+2025,diaphragm,1
+2025,"obstetric labor, premature",1
+2025,persons with hearing disabilities,1
+2020,molecular docking simulation,1
+2020,magnetic resonance imaging,1
+2025,geriatric assessment,1
+2025,nucleotides,1
+2025,microwave imaging,1
+2025,"diabetes, gestational",1
+2017,precision medicine,1
+2025,persons with visual disabilities,1
+2025,microfluidics,1
+2025,elasticity imaging techniques,1
+2025,keratoconus,1
+2025,data analytics,1
+2016,cardiovascular diseases,1
+2025,molecular docking simulation,1
+2025,auditory perception,1
+2025,speech perception,1
+2022,phylogeny,1
+2026,"sequence analysis, rna",1
+2025,induced pluripotent stem cells,1
+2026,"heart defects, congenital",1
+2018,male,1
+2025,fetal monitoring,1
+2025,pre-eclampsia,1
+2025,disaster planning,1
+2025,"databases, nucleic acid",1
+2022,adolescent,1
+2025,laryngeal neoplasms,1
+2025,"respiration, artificial",1
+2024,"epistasis, genetic",1
+2025,"rna, plant",1
+2017,software,1
+2025,user-computer interface,1
+2021,pharmacogenetics,1
+2026,genomics,1
+2017,aged,1
+2023,"drugs, chinese herbal",1
+2023,rare diseases,1
+2025,seer program,1
+2019,attitude,1
+2025,occupational exposure,1
+2022,"evolution, molecular",1
+2026,organ transplantation,1
+2026,radiopharmaceuticals,1
+2025,tertiary lymphoid structures,1
+2025,nesting behavior,1
+2019,search engine,1
+2025,dopamine plasma membrane transport proteins,1
+2025,suicide prevention,1
+2023,prognosis,1
+2026,biomedical research,1
+2026,glioma,1
+2026,dogs,1
+2025,abstracting and indexing,1
+2017,adult,1
+2025,walking speed,1
+2026,hypopharyngeal neoplasms,1
+2025,alcoholism,1
+2025,protein domains,1
+2025,"sleep, rem",1
+2025,corynebacterium glutamicum,1
+2025,"manuscripts, medical as topic",1
+2022,covid-19,1
+2025,alopecia,1
+2025,echo-planar imaging,1
+2025,"evoked potentials, motor",1
+2025,heart auscultation,1
+2024,brachyura,1
+2025,functional laterality,1
+2024,mass spectrometry,1
+2025,gene ontology,1
+2025,east asian people,1
+2025,"libraries, medical",1
+2024,tandem mass spectrometry,1
+2025,immune checkpoint inhibitors,1
+2025,alpha-ketoglutarate-dependent dioxygenase fto,1
+2025,medical errors,1
+2025,spinal diseases,1
+2026,brain-computer interfaces,1
+2025,chlorophyll a,1
+2018,aging,1
+2025,"killer cells, natural",1
+2023,transcriptome,1
+2025,immune evasion,1
+2025,respiratory syncytial virus infections,1
+2025,comorbidity,1
+2025,tooth,1
+2025,creatinine,1
+2025,apolipoproteins e,1
+2023,"gene expression regulation, plant",1
+2026,forensic toxicology,1
+2017,cross-sectional studies,1
+2022,lipidomics,1
+2025,"muscular dystrophy, duchenne",1
+2025,empathy,1
+2026,brain neoplasms,1
+2019,bacteria,1
+2025,united kingdom,1
+2025,malaysia,1
+2025,pulmonary artery,1
+2025,"drug resistance, neoplasm",1
+2025,mental fatigue,1
+2019,benzimidazoles,1
+2022,myocardial infarction,1
+2026,"protein processing, post-translational",1
+2025,anti-n-methyl-d-aspartate receptor encephalitis,1
+2018,female,1
+2018,cardiovascular diseases,1
+2025,"speech, alaryngeal",1
+2019,food industry,1
+2022,consanguinity,1
+2022,"shock, cardiogenic",1
+2025,plant growth regulators,1
+2026,patient-centered care,1
+2025,"models, theoretical",1
+2026,"sequence analysis, protein",1
+2026,growth disorders,1
+2018,educational measurement,1
+2025,stomach diseases,1
+2023,"milk, human",1
+2025,intention,1
+2025,orthotic devices,1
+2022,prognosis,1
+2025,premature birth,1
+2025,glioblastoma,1
+2020,policy making,1
+2024,asian people,1
+2025,positron emission tomography computed tomography,1
+2025,knee,1
+2025,"pregnancy complications, cardiovascular",1
+2026,image enhancement,1
+2020,"neural networks, computer",1
+2022,"mice, inbred c57bl",1
+2025,video games,1
+2025,polycystic ovary syndrome,1
+2023,infant,1
+2025,ovarian neoplasms,1
+2025,"reflex, stretch",1
+2025,wrist fractures,1
+2025,perfusion,1
+2025,gadolinium,1
+2021,beginning of human life,1
+2022,aberrant crypt foci,1
+2013,big data analytics,1
+2016,algorithms,1
+2018,adult,1
+2025,programmed cell death 1 receptor,1
+2025,communication,1
+2025,polypharmacy,1
+2025,metabolic syndrome,1
+2025,malaria,1
+2025,data compression,1
+2025,canes,1
+2014,big data analytics,1
+2025,radioisotopes,1
+2024,length of stay,1
+2025,awareness,1
+2026,prenatal diagnosis,1
+2020,breast neoplasms,1
+2026,leucine zippers,1
+2024,neoplasm proteins,1
+2025,lower body negative pressure,1
+2017,"databases, factual",1
+2023,"pattern recognition, automated",1
+2025,sweden,1
+2019,latin america,1
+2025,nursing diagnosis,1
+2025,neurosurgical procedures,1
+2025,infrared rays,1
+2021,adolescent,1
+2025,neoadjuvant therapy,1
+2023,network pharmacology,1
+2025,amino acid sequence,1
+2025,oxygen saturation,1
+2025,bees,1
+2025,spinal cord injuries,1
+2025,drug synergism,1
+2026,educational status,1
+2026,intercellular signaling peptides and proteins,1
+2025,hip joint,1
+2025,cephalometry,1
+2025,"scleroderma, systemic",1
+2025,tissue engineering,1
+2024,emotions,1
+2019,malpractice,1
+2025,delirium,1
+2022,retrospective studies,1
+2025,vectorcardiography,1
+2024,germany,1
+2025,hot temperature,1
+2023,anemia,1
+2024,entropy,1
+2024,coronavirus infections,1
+2026,food technology,1
+2019,forecasting,1
+2024,cross-sectional studies,1
+2024,prognosis,1
+2025,aortic dissection,1
+2025,radiosurgery,1
+2026,speech perception,1
+2026,nasopharyngeal neoplasms,1
+2019,cell proliferation,1
+2019,diagnostic errors,1
+2026,cyclin-dependent kinase inhibitor p21,1
+2026,movement,1
+2026,protein multimerization,1
+2025,optical imaging,1
+2026,"gait disorders, neurologic",1
+2025,"surgical procedures, operative",1
+2019,adult,1
+2025,facial nerve,1
+2025,"pacemaker, artificial",1
+2025,radial artery,1
+2025,respiratory insufficiency,1
+2023,hesperidin,1
+2025,"vaccines, virus-like particle",1
+2024,"tomography, x-ray computed",1
+2026,nutrition surveys,1
+2025,knowledge bases,1
+2025,pericardium,1
+2025,preoperative care,1
+2025,microwaves,1
+2025,data analysis,1
+2025,radiation monitoring,1
+2026,aging,1
+2025,iliac vein,1
+2023,gene expression profiling,1
+2025,health services needs and demand,1
+2026,"radiotherapy, intensity-modulated",1
+2025,canada,1
+2026,"medicine, chinese traditional",1
+2025,reference standards,1
+2026,transcription factor ap-1,1
+2025,glucose,1
+2024,mining,1
+2025,drug dosage calculations,1
+2025,radiation exposure,1
+2025,muscular diseases,1
+2025,athletes,1
+2025,ophthalmology,1
+2025,replication origin,1
+2022,st elevation myocardial infarction,1
+2025,secondary metabolism,1
+2025,orthopedic procedures,1
+2024,"decision support systems, clinical",1
+2024,semantics,1
+2025,"fixation, ocular",1
+2025,minimally invasive surgical procedures,1
+2023,diabetes mellitus,1
+2025,gentian violet,1
+2026,"databases, genetic",1
+2026,single-cell analysis,1
+2025,area under curve,1
+2024,tin,1
+2025,triglycerides,1
+2024,coping skills,1
+2025,nurse's role,1
+2024,"models, statistical",1
+2024,peptides,1
+2025,veterinarians,1
+2023,east asian people,1
+2024,dynamin ii,1
+2026,proteomics,1
+2024,phenotype,1
+2025,urinary bladder neoplasms,1
+2025,friedreich ataxia,1
+2026,molecular dynamics simulation,1
+2026,"aged, 80 and over",1
+2025,acute pain,1
+2025,counterpulsation,1
+2024,drug repositioning,1
+2024,drug delivery systems,1
+2025,computer security,1
+2024,incidence,1
+2026,phosphorylation,1
+2025,liver transplantation,1
+2017,phenotype,1
+2025,saccades,1
+2025,pharyngeal neoplasms,1
+2025,chloride channels,1
+2024,drug design,1
+2024,"pneumonia, viral",1
+2025,stomach,1
+2025,intracranial aneurysm,1
+2016,"translational research, biomedical",1
+2017,female,1
+2023,chemometrics,1
+2025,"pregnancy trimester, second",1
+2025,"burnout, professional",1
+2024,proteomics,1
+2025,clinical decision-making,1
+2025,skin diseases,1
+2025,extraterrestrial environment,1
+2024,linkage disequilibrium,1
+2025,radiation pneumonitis,1
+2025,acute disease,1
+2025,disability-adjusted life years,1
+2024,hospitals,1
+2025,fovea centralis,1
+2026,vitis,1
+2021,"child, preschool",1
+2022,mass spectrometry,1
+2025,confidentiality,1
+2025,drug development,1
+2025,"colitis, ulcerative",1
+2025,venous thrombosis,1
+2024,genetic predisposition to disease,1
+2026,biological availability,1
+2025,frontotemporal lobar degeneration,1
+2025,pharmacoepidemiology,1
+2025,lumbar vertebrae,1
+2023,sheep,1
+2025,ribosomes,1
+2025,scoliosis,1
+2024,lipidomics,1
+2026,mammography,1
+2025,phase transition,1
+2019,internet,1
+2026,large language models,1
+2023,length of stay,1
+2023,phylogeny,1
+2025,candida,1
+2024,patient safety,1
+2025,cataract,1
+2025,vocal cords,1
+2024,environmental monitoring,1
+2025,connectome,1
+2017,prognosis,1
+2025,electric stimulation,1
+2025,"evolution, molecular",1
+2025,internship and residency,1
+2025,staining and labeling,1
+2025,methicillin-resistant staphylococcus aureus,1
+2017,medical oncology,1
+2026,stroke rehabilitation,1
+2025,hydrogen-ion concentration,1
+2025,multivariate analysis,1
+2025,breeding,1
+2025,circadian rhythm,1
+2025,transfusion reaction,1
+2025,safety-net providers,1
+2026,"ultrasonography, mammary",1
+2025,"rna processing, post-transcriptional",1
+2016,systems integration,1
+2025,detection algorithms,1
+2025,endodontics,1
+2026,inflammation,1
+2026,united kingdom,1
+2019,mammography,1
+2025,electromagnetic fields,1
+2019,"hospitals, pediatric",1
+2026,"databases, factual",1
+2025,eczema,1
+2026,"child, preschool",1
+2018,machine learning,1
+2025,patient satisfaction,1
+2022,adult,1
+2025,stroke volume,1
+2024,mutation,1
+2025,sex determination by skeleton,1
+2025,cognition,1
+2025,facial expression,1
+2022,genomics,1
+2025,homes for the aged,1
+2022,taurine,1
+2025,asian people,1
+2023,mendelian randomization analysis,1
+2024,periodicals as topic,1
+2025,smell,1
+2025,metabolic networks and pathways,1
+2025,fermentation,1
+2025,x-rays,1
+2025,hemoglobins,1
+2017,medical informatics,1
+2025,biometric identification,1
+2025,nasopharyngeal carcinoma,1
+2025,drug monitoring,1
+2026,food safety,1
+2025,alcohol drinking,1
+2020,prospective studies,1
+2025,colon,1
+2025,dimensionality reduction,1
+2025,suicide,1
+2025,cerebral arteries,1
+2025,comprehension,1
+2025,"pregnancy trimester, first",1
+2025,"drug evaluation, preclinical",1
+2024,respiratory distress syndrome,1
+,artificial intelligence,1
+2020,female,1
+2025,"vocabulary, controlled",1
+2025,risk management,1
+2026,protein folding,1
+2016,information storage and retrieval,1
+2025,dyslexia,1
+2011,big data,1
+2026,tooth,1
+2022,phospholipids,1
+2026,vascular surgical procedures,1
+2026,prognosis,1
+2026,"cardiomyopathy, dilated",1
+2025,corpus callosum,1
+2025,sleep wake disorders,1
+2025,anti-arrhythmia agents,1
+2025,dna replication,1
+2025,beds,1
+2025,los angeles,1
+2020,proteins,1
+2022,colon,1
+2025,england,1
+2025,interviews as topic,1
+2024,archives,1
+2025,"evoked potentials, visual",1
+2025,rna-binding proteins,1
+2026,malocclusion,1
+2026,"genes, mitochondrial",1
+2024,electronic prescribing,1
+2025,energy metabolism,1
+2026,computer literacy,1
+2018,"education, medical, graduate",1
+2025,anterior eye segment,1
+2024,pollination,1
+2025,potassium channel blockers,1
+2026,non-alcoholic fatty liver disease,1
+2025,warfarin,1
+2020,adult,1
+2026,nursing care,1
+2025,electrooculography,1
+2025,multilingualism,1
+2025,"ultrasonography, prenatal",1
+2023,"infant, newborn",1
+2025,gravitation,1
+2021,aortic aneurysm,1
+2026,apoptosis,1
+2025,subthalamic nucleus,1
+2025,myocardial ischemia,1
+2025,luminescent measurements,1
+2025,intracranial pressure,1
+2018,diffusion of innovation,1
+2025,anisotropy,1
+2025,maternal mortality,1
+2025,"aphasia, primary progressive",1
+2025,nervous system diseases,1
+2025,tympanic membrane,1
+2016,computer simulation,1
+2017,health care sector,1
+2025,endosonography,1
+2025,stat4 transcription factor,1
+2026,intensive care units,1
+2026,polycystic ovary syndrome,1
+2025,conservation of natural resources,1
+2025,population surveillance,1
+2025,"nerve fibers, unmyelinated",1
+2025,grassland,1
+2025,age factors,1
+2025,arteries,1
+2021,delivery of health care,1
+2017,proteomics,1
+2018,animals,1
+2025,"suicide, attempted",1
+2025,idiopathic pulmonary fibrosis,1
+2021,aged,1
+2026,"signal processing, computer-assisted",1
+2025,employment,1
+2025,"electrodes, implanted",1
+2023,milk,1
+2025,kangaroo-mother care method,1
+2019,food inspection,1
+2020,hearing,1
+2025,"outcome assessment, health care",1
+2025,public opinion,1
+2017,computed tomography angiography,1
+2018,"infant, very low birth weight",1
+2025,vancomycin,1
+2025,neurofibroma,1
+2025,aminolevulinic acid,1
+2025,pharmacovigilance,1
+2025,insurance claim review,1
+2025,indonesia,1
+2025,educational measurement,1
+2025,drug repositioning,1
+2024,pandemics,1
+2025,developmental disabilities,1
+2020,calcinosis,1
+2021,child,1
+2025,ankle,1
+2019,animals,1
+2026,cell adhesion,1
+2024,burkina faso,1
+2017,animals,1
+2024,global health,1
+2025,safety management,1
+2024,pollen,1
+2025,tibial fractures,1
+2016,pediatrics,1
+2023,phosphatidylinositol 3-kinases,1
+2025,spine,1
+2025,assisted living facilities,1
+2024,stroke,1
+2019,aged,1
+2022,covid-19 vaccines,1
+2026,graft rejection,1
+2023,prospective studies,1
+2025,anesthesia,1
+2025,medical record linkage,1
+2026,multiomics,1
+2018,crispr-cas systems,1
+2023,diabetic retinopathy,1
+2024,"genome, plant",1
+2020,algorithms,1
+2020,health policy,1
+2025,muscles,1
+2025,"aortic aneurysm, abdominal",1
+2026,disability-adjusted life years,1
+2024,precision medicine,1
+2026,chlorophyll a,1
+2023,risk factors,1
+2025,"sequence analysis, protein",1
+2025,italy,1
+2025,nonprescription drugs,1
+2025,"gait disorders, neurologic",1
+2025,finite element analysis,1
+2025,phonetics,1
+2025,cerebral palsy,1
+2025,chromatin,1
+2025,oral medicine,1
+2024,covid-19 drug treatment,1
+2025,shoulder,1
+2026,polymers,1
+2025,cerebellum,1
+2022,eye diseases,1
+2018,age factors,1
+2025,pharmacokinetics,1
+2025,perinatal care,1
+2025,demography,1
+2016,user-computer interface,1
+2025,sound localization,1
+2025,enzymes,1
+2023,mitogen-activated protein kinase 14,1
+2021,aortic dissection,1
+2022,lipid metabolism,1
+2022,genome,1
+2026,data analysis,1
+2026,chronic disease,1
+2026,thinness,1
+2025,mosquito vectors,1
+2025,reminder systems,1
+2026,depression,1
+2024,protein transport,1
+2025,helicobacter infections,1
+2024,data visualization,1
+2025,dermoscopy,1
+2026,internet,1
+2017,cost savings,1
+2024,"drugs, chinese herbal",1
+2025,industrial microbiology,1
+2025,"lupus erythematosus, systemic",1
+2026,delirium,1
+2025,calcium sulfate,1
+2025,tibet,1
+2025,computer systems,1
+2026,adolescent,1
+2026,quantitative phase imaging,1
+2025,touch,1
+2024,disability-adjusted life years,1
+2024,population dynamics,1
+2025,phase separation,1
+2025,5-aminolevulinate synthetase,1
+2020,brain,1
+2025,encyclopedias as topic,1
+2025,white people,1
+2026,convolutional neural networks,1
+2026,global burden of disease,1
+2023,hydrogen sulfide,1
+2024,digital health,1
+2019,cell cycle proteins,1
+2025,signal transduction,1
+2025,sitting position,1
+2025,learning,1
+2025,biopsy,1
+2025,urban health,1
+2026,bibliometrics,1
+2019,infections,1
+2025,drinking,1
+2025,"arthroplasty, replacement, hip",1
+2025,state medicine,1
+2025,perfusion imaging,1
+2026,laryngeal neoplasms,1
+2025,trachea,1
+2025,metals,1
+2025,diffusion,1
+2025,vascular calcification,1
+2025,"endoscopy, gastrointestinal",1
+2026,workflow,1
+2025,crowdsourcing,1
+2025,lysine,1
+2025,teaching materials,1
+2017,genetic predisposition to disease,1
+2025,new york,1
+2025,"rna, competitive endogenous",1
+2025,"pancreatitis, acute necrotizing",1
+2026,holography,1
+2025,decision making,1
+2025,"arthroplasty, replacement, shoulder",1
+2025,eutrophication,1
+2025,cerebrospinal fluid,1
+2025,acute coronary syndrome,1
+2023,cytochrome p-450 enzyme system,1
+2025,systematized nomenclature of medicine,1
+2025,clinical competence,1
+2025,interleukin-2,1
+2026,diffusion tensor imaging,1
+2024,multiple myeloma,1
+2025,developmental dysplasia of the hip,1
+2025,"hip dislocation, congenital",1
+2025,headache,1
+2025,taiwan,1
+2020,mammography,1
+2021,disruptive technology,1
+2025,acetylation,1
+2025,dental caries,1
+2025,drug misuse,1
+2025,electric power supplies,1
+2025,temporomandibular joint,1
+2025,space flight,1
+2026,environmental monitoring,1
+2023,sars-cov-2,1
+2025,hippocampus,1
+2022,biomedical research,1
+2025,international classification of diseases,1
+2025,switzerland,1
+2024,soil pollutants,1
+2019,breast neoplasms,1
+1986,artificial intelligence,1
+2026,anatomic landmarks,1
+2025,linear models,1
+2025,brazil,1
+2024,biomedical research,1
+2025,intelligence,1
+2018,"outcome assessment, health care",1
+2025,track and field,1
+2025,light,1
+2026,breast neoplasms,1
+2022,electronic health records,1
+2025,spinal fractures,1
+2025,fluorodeoxyglucose f18,1
+2019,evidence-based practice,1
+2025,vibration,1
+2026,muscle strength,1
+2025,intraoperative care,1
+2024,breast neoplasms,1
+2017,predictive value of tests,1
+2018,teaching rounds,1
+2025,protein kinase inhibitors,1
+2025,surgical instruments,1
+2025,biomimetics,1
+2025,neck,1
+2025,cleft lip,1
+2025,hyperspectral imaging,1
+2017,web browser,1
+2025,staphylococcal infections,1
+2025,"stress, psychological",1
+2025,organs at risk,1
+2019,food services,1
+2020,brain neoplasms,1
+2023,plant proteins,1
+2024,antiviral agents,1
+2025,handwriting,1
+2025,yeasts,1
+2026,neurodegenerative diseases,1
+2022,social media,1
+2025,fibronectins,1
+2025,"pregnancy trimester, third",1
+2025,age determination by skeleton,1
+2025,"magnetic resonance imaging, cine",1
+2025,frontotemporal dementia,1
+2019,cross-sectional studies,1
+2025,registries,1
+2026,signal-to-noise ratio,1
+2025,latin america,1
+2025,mouth neoplasms,1
+2024,publications,1
+2017,intraocular pressure,1
+2018,organ size,1
+2025,hand strength,1
+2023,setaria plant,1
+2023,"polymorphism, single nucleotide",1
+2025,erg1 potassium channel,1
+2026,social determinants of health,1
+2026,ferroptosis,1
+2025,psychotic disorders,1
+2025,neurophysiology,1
+2024,genetic therapy,1
+2026,high-throughput screening assays,1
+2025,metabolome,1
+2018,needs assessment,1
+2026,ankle joint,1
+2025,chiropractic,1
+2023,peptidyl-dipeptidase a,1
+2025,cardiotoxicity,1
+1980,artificial intelligence,1
+2025,drug combinations,1
+2024,delivery of health care,1
+2017,gene expression profiling,1
+2025,anxiety,1
+2025,"radiography, dual-energy scanned projection",1
+2020,protein conformation,1
+2025,breath tests,1
+2025,metaplasia,1
+2025,intestinal mucosa,1
+2026,rivers,1
+2025,trpv cation channels,1
+2026,nasopharyngeal carcinoma,1
+2025,pulmonary emphysema,1
+2023,quercetin,1
+2025,actigraphy,1
+2025,electroretinography,1
+2025,"tachycardia, ventricular",1
+2019,vocational education,1
+2022,"child, preschool",1
+2025,vaccines,1
+2025,hip prosthesis,1
+2024,workflow,1
+2024,"biomarkers, tumor",1
+2023,cystathionine gamma-lyase,1
+2025,cross-over studies,1
+2026,fermentation,1
+2026,"drugs, chinese herbal",1
+2017,computer simulation,1
+2023,genomics,1
+2024,herbivory,1
+2020,computational biology,1
+2025,bronchiectasis,1
+2026,eutrophication,1
+2025,"arthroplasty, replacement, knee",1
+2025,cervical vertebrae,1
+2025,"pneumonia, ventilator-associated",1
+2025,ventricular premature complexes,1
+2026,cell membrane,1
+2022,computational biology,1
+2025,cell differentiation,1
+2024,bees,1
+2025,melanocytes,1
+2025,principal component analysis,1
+2024,nursing research,1
+2025,retinal ganglion cells,1
+2024,global burden of disease,1
+2026,speech intelligibility,1
+2026,"radiography, panoramic",1
+2026,gastrointestinal neoplasms,1
+2018,developing countries,1
+2025,rna-seq,1
+2026,pupil,1
+2021,robotics,1
+2026,rna-binding proteins,1
+2025,thyroid gland,1
+2025,plasmids,1
+2025,hospitals,1
+2025,esophageal neoplasms,1
+2026,breast,1
+2024,quality-adjusted life years,1
+2026,functional food,1
+2019,"models, statistical",1
+2023,enhanced recovery after surgery,1
+2025,hypokinesia,1
+2025,meningioma,1
+2017,signal transduction,1
+2017,oligonucleotide array sequence analysis,1
+2025,infection control,1
+2025,dysphonia,1
+2025,phenazines,1
+2024,psychological well-being,1
+2019,"adenocarcinoma, follicular",1
+2025,stents,1
+2025,cerebrovascular disorders,1
+2025,binding sites,1
+2020,software,1
+2020,aged,1
+2026,natural language processing,1
+2026,network pharmacology,1
+2025,patellar dislocation,1
+2016,datasets as topic,1
+2016,databases as topic,1
+2017,"glaucoma, open-angle",1
+2018,data science,1
+2021,data science,1
+2022,mice,1
+2026,radiometry,1
+2024,grasshoppers,1
+2025,uveal melanoma,1
+2025,sexism,1
+2026,adenocarcinoma of lung,1
+2025,cerebral hemorrhage,1
+2025,voice,1
+2025,pongo,1
+2025,"ultrasonography, mammary",1
+2025,qualitative research,1
+2025,lymphatic metastasis,1
+2022,united states,1
+2026,sarcopenia,1
+2026,endometrial neoplasms,1
+2025,rare diseases,1
+2021,anti-bacterial agents,1
+2022,precision medicine,1
+2026,heart failure,1
+2024,"epitopes, b-lymphocyte",1
+2025,protein engineering,1
+2019,food handling,1
+2025,voting,1
+2024,gene frequency,1
+2025,pulmonary embolism,1
+2025,altitude,1
+2025,unmanned aerial devices,1
+2025,self-management,1
+2025,"thyroid cancer, papillary",1
+2022,child,1
+2022,cross-sectional studies,1
+2025,documentation,1
+2026,"radiography, thoracic",1
+2026,cochlear implants,1
+2025,"practice patterns, physicians'",1
+2025,sarcopenia,1
+2025,tibial plateau fractures,1
+2025,urinary bladder,1
+2024,acetaminophen,1
+2025,vitamin k epoxide reductases,1
+2026,veterinary medicine,1
+2025,ethylenes,1
+2025,sympathetic nervous system,1
+2025,ovulation,1
+2025,"prediction methods, machine",1
+2024,"metals, heavy",1
+2024,middle aged,1
+2025,heart arrest,1
+2025,macaca mulatta,1
+2026,multiple myeloma,1
+2025,amyloid beta-peptides,1
+2025,celiac disease,1
+2021,male,1
+2025,critical pathways,1
+2025,transducers,1
+2016,commerce,1
+2018,access to information,1
+2023,semantics,1
+2025,"constriction, pathologic",1
+2026,equipment design,1
+2016,disease,1
+2025,circle of willis,1
+2025,emergency medical services,1
+2025,australia,1
+2025,datasets as topic,1
+2018,software,1
+2023,interleukin-10,1
+2025,mexico,1
+2025,cities,1
+2025,deafness,1
+2025,speech recognition software,1
+2026,pregnancy,1
+2026,myopia,1
+2026,"societies, veterinary",1
+2025,seasons,1
+2018,base composition,1
+2025,music,1
+2026,drug delivery systems,1
+2019,"emergency service, hospital",1
+2025,silicosis,1
+2022,"epigenesis, genetic",1
+2024,accidental falls,1
+2025,"range of motion, articular",1
+2024,lipids,1
+2025,cats,1
+2025,sound,1
+2026,biomechanical phenomena,1
+2023,language,1
+2023,female,1
+2025,interferon-gamma,1
+2026,noise,1
+2025,"mice, inbred balb c",1
+2026,mental disorders,1
+2026,"radiographic image interpretation, computer-assisted",1
+2017,computational biology,1
+2018,cerebral cortex,1
+2025,nonlinear dynamics,1
+2025,muscle contraction,1
+2022,sentiment analysis,1
+2026,necroptosis,1
+2025,epidemiologic studies,1
+2025,neonatal sepsis,1
+2023,adiponectin,1
+2024,nanoparticles,1
+2026,cross-sectional studies,1
+2021,cross-sectional studies,1
+2017,algorithms,1
+2017,healthy volunteers,1
+2025,hallucinations,1
+2023,united nations,1
+2024,"kidney failure, chronic",1
+2026,precancerous conditions,1
+2025,whole body imaging,1
+2021,infant,1
+2025,rivers,1
+2025,multiple myeloma,1
+2024,fruit,1
+2023,cystathionine beta-synthase,1
+2025,evoked potentials,1
+2022,non-st elevated myocardial infarction,1
+2025,"genome, bacterial",1
+2025,corneal diseases,1
+2025,megakaryocytes,1
+2013,big data,1
+2022,sars-cov-2,1
+2025,prosthesis failure,1
+2025,persons with disabilities,1
+2017,datasets as topic,1
+2025,mental health,1
+2025,forests,1
+2024,awareness,1
+2025,case-control studies,1
+2026,cdc2 protein kinase,1
+2025,prostheses and implants,1
+2024,data analysis,1
+2019,male,1
+2019,information storage and retrieval,1
+2025,neoplasm invasiveness,1
+2018,morbidity,1
+2025,mandible,1
+2024,knowledge,1
+2020,protein binding,1
+2019,cell cycle,1
+2026,rats,1
+2025,"elements, radioactive",1
+2025,musculoskeletal diseases,1
+2025,publication bias,1
+2026,lung neoplasms,1
+2025,"rna, long noncoding",1
+2025,international agencies,1
+2025,proprioception,1
+2025,heart valve diseases,1
+2025,knee joint,1
+2026,time factors,1
+2025,isocitrate dehydrogenase,1
+2023,photochemistry,1
+2019,breast,1
+2025,brachial artery,1
+2025,insulin,1
+2025,poaceae,1
+2024,neoplasms,1
+2025,spinal stenosis,1
+2025,spinal fusion,1
+2025,scalp,1
+2025,nociception,1
+2025,ultraviolet rays,1
+2023,salivation,1
+2024,proteins,1
+2025,incidence,1
+2026,diffusion,1
+2025,paralysis,1
+2026,child,1
+2017,proteome,1
+2025,phosphorus,1
+2025,candidemia,1
+2025,macular edema,1
+2025,workplace,1
+2025,learning disabilities,1
+2025,hypothyroidism,1
+2025,recurrent neural networks,1
+2026,drug discovery,1
+2025,macular degeneration,1
+2025,crispr-cas systems,1
+2025,color vision defects,1
+2025,universities,1
+2020,breast,1
+2021,fluoroquinolones,1
+2025,disease,1
+2025,hypovolemia,1
+2025,cardiopulmonary resuscitation,1
+2024,benchmarking,1
+2025,respiratory therapy,1
+2025,frail elderly,1
+2016,delivery of health care,1
+2025,angiography,1
+2025,radiation dosage,1
+2025,augmented reality,1
+2023,zea mays,1
+2025,out-of-hospital cardiac arrest,1
+2025,"adaptation, physiological",1
+2019,boston,1
+2026,aurora kinase a,1
+2016,database management systems,1
+2026,gastrointestinal tract,1
+2026,digital technology,1
+2024,protein interaction maps,1
+2025,glomerular filtration rate,1
+2025,gastrointestinal neoplasms,1
+2025,communication devices for people with disabilities,1
+2025,electric stimulation therapy,1
+2026,"rats, long-evans",1
+2022,azoxymethane,1
+2025,lung volume measurements,1
+2025,hair,1
+2025,glycerylphosphorylcholine,1
+2024,diet,1
+2018,genome,1
+2025,bias,1
+2025,back,1
+2025,liver diseases,1
+2019,decision making,1
+2021,amoxicillin,1
+2017,gene expression regulation,1
+2026,aortic coarctation,1
+2026,alzheimer disease,1
+2025,"pemphigoid, bullous",1
+2026,"surgery, computer-assisted",1
+2024,nursing records,1
+2025,rehabilitation,1
+2025,cost of illness,1
+2023,covid-19,1
+2025,"education, medical, graduate",1
+2025,disease management,1
+2024,amino acid sequence,1
+2023,roc curve,1
+2024,urinary bladder neoplasms,1
+2025,"epilepsy, temporal lobe",1
+2025,dry powder inhalers,1
+2025,communicable disease control,1
+2025,sleep quality,1
+2025,soccer,1
+2025,tissue scaffolds,1
+2025,laparoscopy,1
+2025,ankle injuries,1
+2025,"crystallography, x-ray",1
+2019,food safety,1
+2025,genetic variation,1
+2025,respiratory protective devices,1
+2025,terminology as topic,1
+2017,"data interpretation, statistical",1
+2025,"communicable diseases, emerging",1
+2025,volleyball,1
+2023,biodiversity,1
+2023,cattle,1
+2022,male,1
+2025,lipid metabolism,1
+2025,"otitis media, suppurative",1
+2025,qatar,1
+2025,exercise test,1
+2026,contrast media,1
+2025,genetic algorithms,1
+2025,chlorophyll,1
+2025,vision disorders,1
+2016,access to information,1
+2025,"conditioning, classical",1
+2025,skull,1
+2025,virion,1
+2025,autonomic nervous system,1
+2026,robotic surgical procedures,1
+2018,geriatrics,1
+2025,affect,1
+2025,esthetics,1
+2022,hospital mortality,1
+2023,liver cirrhosis,1
+2025,lymph nodes,1
+2025,genetic markers,1
+2025,mass screening,1
+2017,hospitals,1
+2025,fetal blood,1
+2025,nasopharyngeal neoplasms,1
+2025,olfactory perception,1
+2025,stochastic processes,1
+2025,gastric mucosa,1
+2026,tooth movement techniques,1
+2026,"ethics, nursing",1
+2025,tooth root,1

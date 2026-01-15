@@ -1,0 +1,47 @@
+[
+{
+  "article_id": "41531045",
+  "source": "pubmed",
+  "doi": "10.13227/j.hjkx.202412063",
+  "title": "[Spatial-temporal Pattern of Carbon Budget in Land Use and Zoning for Carbon Balance Management in the Three Gorges Reservoir Region].",
+  "abstract": "As the cornerstone of economic and social development， county-level regions hold significant strategic importance for accurately assessing China's carbon source distribution and carbon sink capacity， as well as effectively guiding the precise implementation of carbon neutrality strategies. The Three Gorges Reservoir Region， as a critical ecological barrier and water regulation zone， represents a significant case study for exploring land use and dual-carbon management. Supported by spatial technologies， this study used Landsat TM/Landsat 8 OLI remote sensing images from the years 2000， 2005， 2010， 2015， and 2020 as data sources. It employed models and methods such as standard deviation ellipses， centroid analysis， spatial autocorrelation analysis， and integrated carbon management to measure and analyze the spatiotemporal evolution of land use， carbon budgets， and carbon balance management zoning in the study area. The results indicate： ① The study area was dominated by forest land and arable land. Construction land increased the most， reaching 1 769.13 km， while grassland and arable land decreased by 1 677.67 km and 810.15 km， respectively. Other land categories remained relatively stable， exhibiting spatial heterogeneity and unevenness in land use changes. ② Carbon emissions in the Three Gorges Reservoir Region first increased sharply and then gradually decreased， peaking at 39.15 million tons in 2010 and subsequently declining annually to 35.56 million tons， a reduction of 9.19%. The turning point occurred in 2010， with significant differences in the rate of change before and after and a slower declining trend over the subsequent decade. ③ Carbon absorption in the Three Gorges Reservoir Region initially declined sharply （-9.50%）， then increased moderately （6.94% from 2005 to 2015）， followed by a slight decrease （-3.38% from 2015 to 2020）， with significant overall fluctuations. ④ The spatial pattern of carbon budgets was evident， with 55.00% of carbon emissions concentrated in 11 counties at the reservoir tail and efficient， annually increasing carbon absorption in 11 counties at the reservoir belly. The distribution of carbon absorption and emissions was uneven， with higher emissions at the reservoir tail and higher absorption at the reservoir head， warranting particular attention. ⑤ Carbon management zoning indicated that the reservoir tail mainly consisted of compensation payment zones， while the reservoir head and belly were balance zones， exhibiting clustering and heterogeneity in their distribution. There remains significant room for optimization in emission reduction and carbon sink enhancement. The study provides scientific basis and practical guidance for carbon management in the Three Gorges Reservoir Region and similar regions， while also contributing important insights to the ecosystem carbon cycle theory， addressing global climate change， and promoting green and low-carbon development.",
+  "authors": [
+    "Hui Li",
+    "Shao-Long Sun",
+    "Yu-Ting Jia",
+    "Ye Yang",
+    "Qi-Gang Zhou",
+    "Jing Lan"
+  ],
+  "affiliations": [
+    "School of Management, Xi'an Jiaotong University, Xi'an 710049, China.",
+    "School of Public Administration, Chongqing Finance and Economics College, Chongqing 401320, China.",
+    "Chongqing Key Laboratory of Data Mining and Integrated Application for Ecological Environment, Chongqing 401320, China."
+  ],
+  "journal": "Huan jing ke xue= Huanjing kexue",
+  "issn": "0250-3301",
+  "year": 2026,
+  "month": 1,
+  "date_published": "2026-01-08",
+  "keywords": [
+    "data mining"
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41531045/",
+  "language": "en",
+  "scraped_at": "2026-01-15T02:23:26.100676",
+  "publisher": null,
+  "pdf_url": null,
+  "citations": null,
+  "views": null,
+  "quartile": null,
+  "h_index": null,
+  "country": null,
+  "university": null,
+  "laboratory": null,
+  "isbn": null,
+  "categories": [],
+  "subjects": [
+    "data mining"
+  ]
+}
+]
